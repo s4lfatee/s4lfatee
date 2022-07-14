@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm s4lfatee</h1>
 
-CS Student
+<i>"This is going to be great! I'm going to help you accomplish so much, whether I want to or not!"</i>
 
 <h3 align="left">Contact me: </h3>
 <p align="left">
